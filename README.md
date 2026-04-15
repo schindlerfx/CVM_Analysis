@@ -31,10 +31,9 @@ Explorar dados públicos da CVM para gerar análises que auxiliem na tomada de d
 ## ▶️ Como executar
 
 ```bash
-git clone https://github.com/schindlerfx/wallet_crypto.git
-cd cvm-data-analysis
-pip install -r requirements.txt
-python main.py
+git clone https://github.com/schindlerfx/CVM_Analysis.git
+cd CVM_Analysis
+python cvm-data-analysis.py
 ```
 
 ## 📈 Resultados
